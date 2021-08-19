@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <a href="https://www.github.com/ARV02"><img src="https://user-images.githubusercontent.com/56147310/130146197-1d5f686b-52e2-49f8-b639-2fd905a4ace8.png" width="32px" heigth="32px"/></a>
-  <a href="https://www.linkedin.com/in/andresrosasvazquez"><img src="https://user-images.githubusercontent.com/56147310/130150101-2cb8d36e-8d3f-4543-b4b0-9ff4d1653560.png" width="32px" heigth="32px"/></a>
+  <a href="https://www.github.com/ARV02"><img src="https://user-images.githubusercontent.com/56147310/130146197-1d5f686b-52e2-49f8-b639-2fd905a4ace8.png" width="24px" heigth="24px"/></a>
+  <a href="https://www.linkedin.com/in/andresrosasvazquez"><img src="https://user-images.githubusercontent.com/56147310/130150101-2cb8d36e-8d3f-4543-b4b0-9ff4d1653560.png" width="24px" heigth="24px"/></a>
 </p>
 
