@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <a href="https://www.github.com/ARV02"><img src="https://user-images.githubusercontent.com/56147310/130146197-1d5f686b-52e2-49f8-b639-2fd905a4ace8.png" with="64px"/></a>
+  <a href="https://www.github.com/ARV02"><img src="https://user-images.githubusercontent.com/56147310/130146197-1d5f686b-52e2-49f8-b639-2fd905a4ace8.png" width="64px" heigth="64px"/></a>
