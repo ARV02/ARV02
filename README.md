@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ##
+
+### Languages and Tools 🛠️ 
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+
+
 ### Contact with me 
 <p align="center">
   <a href="https://github.com/ARV02"><img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" /></a>
