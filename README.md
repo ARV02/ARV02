@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##
 <p align="left">
+  &emsp; 
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&Style"/>
 </p>
+##
 
 ### Contact with me 
 <p align="center">
