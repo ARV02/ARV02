@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 ### Languages and Tools 🛠️
 <p align="left">
   &emsp; 
-  <img align="left" alt="akd's Github" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&Style"/>
+  <img align="left" alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white"/>
+  &emsp;
+  <img align="left" alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white"/>
+  &emsp;
+  <img align="left" alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=Android%20Studio&logoColor=white"/>
 </p>
 
 ### Contact with me 
