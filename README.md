@@ -29,6 +29,12 @@ Here are some ideas to get you started:
   <img align="left" alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?logo=Kotlin&logoColor=white"/>
   &emsp;
   <img align="left" alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white"/>
+  &emsp;
+  <img align="left" alt="VSC" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white"/>
+  &emsp;
+  <img align="left" alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=white"/>
+  &emsp;
+  <img align="left" alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=white"/>
 </p>
 
 ### Contact with me 
