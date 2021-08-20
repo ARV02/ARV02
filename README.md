@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  <img align="left" alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white"/>
   &emsp;
   <img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black"/>
-  &emps;
+  &emsp;
   <img align="left" alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white"/>
 </p>
 
