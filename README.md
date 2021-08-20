@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ##
-
+[![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&Style=plastic)]()
 ### Contact with me 
 <p align="center">
   <a href="https://github.com/ARV02"><img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" /></a>
