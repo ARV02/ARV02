@@ -25,6 +25,10 @@ Here are some ideas to get you started:
   <img align="left" alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white"/>
   &emsp;
   <img align="left" alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=Android%20Studio&logoColor=white"/>
+  &emsp;
+  <img align="left" alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?logo=Kotlin&logoColor=white"/>
+  &emsp;
+  <img align="left" alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white"/>
 </p>
 
 ### Contact with me 
