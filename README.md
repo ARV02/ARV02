@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   &emsp; 
-  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&Style"/>
+  <img align="left" alt="akd's Github" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&Style"/>
 </p>
 ##
 
