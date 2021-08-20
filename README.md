@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ##
 <p align="center">
-  <a href="https://www.github.com/ARV02"><img src="https://user-images.githubusercontent.com/56147310/130146197-1d5f686b-52e2-49f8-b639-2fd905a4ace8.png" width="24px" heigth="24px"/></a>
+  <a href="https://github.com/ARV02"><img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/andresrosasvazquez"><img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:ar0439708@gmail.com"><img src="https://user-images.githubusercontent.com/56147310/130156384-bd98673f-f110-41c4-9bb8-130c5f3eb7f1.png" width="24px" heigth="24px"/></a>
+  <a href="mailto:ar0439708@gmail.com"><img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 
