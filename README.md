@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ##
 
-### Languages and Tools 🛠️
+###  My Skills:
 <p align="left">
   &emsp; 
   <img align="left" alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white"/>
@@ -32,14 +32,18 @@ Here are some ideas to get you started:
   &emsp;
   <img align="left" alt="VSC" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white"/>
   &emsp;
-  <img align="left" alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=white"/>
+  <img align="left" alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=black"/>
   &emsp;
   <img align="left" alt="Realm" src="https://img.shields.io/badge/-Realm-39477F?logo=Realm&logoColor=white"/>
   &emsp;
  <img align="left" alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white"/>
+  &emsp;
+  <img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black"/>
+  &emps;
+  <img align="left" alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white"/>
 </p>
 
-### Contact with me 
+### Contact with me:
 <p align="center">
   <a href="https://github.com/ARV02"><img align="left" alt="Git" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" /></p>
   <a href="https://www.linkedin.com/in/andresrosasvazquez"><img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
