@@ -34,7 +34,9 @@ Here are some ideas to get you started:
   &emsp;
   <img align="left" alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=white"/>
   &emsp;
-  <img align="left" alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=white"/>
+  <img align="left" alt="Realm" src="https://img.shields.io/badge/-Realm-39477F?logo=Realm&logoColor=white"/>
+  &emsp;
+ <img align="left" alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white"/>
 </p>
 
 ### Contact with me 
