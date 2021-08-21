@@ -24,11 +24,13 @@ Here are some ideas to get you started:
   &emsp;
   <img align="left" alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white"/>
   &emsp;
-  <img align="left" alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=Android%20Studio&logoColor=white"/>
-  &emsp;
   <img align="left" alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?logo=Kotlin&logoColor=white"/>
   &emsp;
+  <img align="left" alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=Android%20Studio&logoColor=white"/>
+  &emsp;
   <img align="left" alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white"/>
+  &emsp;
+   <img align="left" alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white"/>
   &emsp;
   <img align="left" alt="VSC" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white"/>
   &emsp;
@@ -41,6 +43,8 @@ Here are some ideas to get you started:
   <img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black"/>
   &emsp;
   <img align="left" alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white"/>
+  &emsp;
+   <img align="left" alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white"/>
 </p>
 
 ### Contact with me:
