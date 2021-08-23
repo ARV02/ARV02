@@ -45,6 +45,8 @@ Here are some ideas to get you started:
   <img align="left" alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white"/>
   &emsp;
    <img align="left" alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white"/>
+  &emsp;
+   <img align="left" alt="MySQL" src="https://img.shields.io/badge/-Mongo%20DB-47A248A1?logo=MongoDB&logoColor=white"/>
 </p>
 
 ### 📱 How to reach me:
