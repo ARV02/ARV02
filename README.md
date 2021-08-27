@@ -1,4 +1,6 @@
+##
 ### Hi there! I'm Andres <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+
 I'm Android  📱 and Full Stack Developer 💻. 
 
 I'm passionate about technologies and love to learn new things
@@ -17,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##
+
 
 ### 🛠 My Skills:
 <p align="left">
@@ -65,4 +67,6 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/andresrosasvazquez"><img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:ar0439708@gmail.com"><img align="left" alt="akd's codechef" width="80px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+<br>
 
+##
