@@ -1,5 +1,5 @@
 ### Hi there! I'm Andres <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
-I'm **Android Developer** 💻📱.
+I'm Android  📱 and Full Stack Developer 💻. I'm passionate about technologies and love to learn new things
 <!--
 **ARV02/ARV02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -46,7 +46,13 @@ Here are some ideas to get you started:
   &emsp;
    <img align="left" alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white"/>
   &emsp;
-   <img align="left" alt="MySQL" src="https://img.shields.io/badge/-Mongo%20DB-47A248A1?logo=MongoDB&logoColor=white"/>
+   <img align="left" alt="Mongo" src="https://img.shields.io/badge/-Mongo%20DB-47A248A1?logo=MongoDB&logoColor=white"/>
+  &emsp;
+   <img align="left" alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white"/>
+  &emsp;
+   <img align="left" alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white"/>
+  &emsp;
+   <img align="left" alt="Node.js" src="https://img.shields.io/badge/-Node,js-339933?logo=Node.js&logoColor=white"/>
 </p>
 
 ### 📱 How to reach me:
