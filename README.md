@@ -1,5 +1,7 @@
 ### Hi there! I'm Andres <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
-I'm Android  📱 and Full Stack Developer 💻. I'm passionate about technologies and love to learn new things
+I'm Android  📱 and Full Stack Developer 💻. 
+
+I'm passionate about technologies and love to learn new things
 <!--
 **ARV02/ARV02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
