@@ -3,7 +3,7 @@
 
 I'm Android  📱 and Full Stack Developer 💻. 
 
-I'm passionate about technologies and love to learn new things
+I'm passionate about technologies and love to learn new things.
 <!--
 **ARV02/ARV02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -57,6 +57,8 @@ Here are some ideas to get you started:
    <img align="left" alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white"/>
   &emsp;
    <img align="left" alt="Node.js" src="https://img.shields.io/badge/-Node,js-339933?logo=Node.js&logoColor=white"/>
+  &emsp;
+  <img align="left" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black"/>
 </p>
 
 
