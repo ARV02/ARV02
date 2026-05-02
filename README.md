@@ -5,7 +5,7 @@
 <h1 align="center">Mobile Engineer focused on fintech 👋</h1>
 
 <p align="center">
-  <b>Mobile Engineer focused on building scalable fintech products</b>
+  <b>Building scalable, reliable financial products for real users.</b>
 </p>
 
 <p align="center">
