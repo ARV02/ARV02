@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:020617&height=4" />
 </p>
 
-<h1 align="center">Mobile Engineer focused on fintech 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
 <p align="center">
   <b>Building scalable, reliable financial products for real users.</b>
