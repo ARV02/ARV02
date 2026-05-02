@@ -5,7 +5,7 @@
 <h1 align="center">Hey there 👋</h1>
 
 <p align="center">
-  <b>Building scalable, reliable financial products for real users.</b>
+  <b>Building scalable financial products for real users.</b>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  💡 I focus on building reliable, user-centered financial products — not just features.
+  💡 Focused on product quality, user experience, and fast feedback loops.
 </p>
 
 ---
