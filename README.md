@@ -1,74 +1,71 @@
-##
-### Hi there! I'm Andres <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
-
-I'm Android  📱 and Full Stack Developer 💻. 
-
-I'm passionate about technologies and love to learn new things.
-<!--
-**ARV02/ARV02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-### 🛠 My Skills:
-<p align="left">
-  &emsp; 
-  <img align="left" alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white"/>
-  &emsp;
-  <img align="left" alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white"/>
-  &emsp;
-  <img align="left" alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?logo=Kotlin&logoColor=white"/>
-  &emsp;
-  <img align="left" alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=Android%20Studio&logoColor=white"/>
-  &emsp;
-  <img align="left" alt="Java" src="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white"/>
-  &emsp;
-   <img align="left" alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white"/>
-  &emsp;
-  <img align="left" alt="VSC" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white"/>
-  &emsp;
-  <img align="left" alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?logo=Firebase&logoColor=black"/>
-  &emsp;
-  <img align="left" alt="Realm" src="https://img.shields.io/badge/-Realm-39477F?logo=Realm&logoColor=white"/>
-  &emsp;
- <img align="left" alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?logo=Android&logoColor=white"/>
-  &emsp;
-  <img align="left" alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black"/>
-  &emsp;
-  <img align="left" alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white"/>
-  &emsp;
-   <img align="left" alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white"/>
-  &emsp;
-   <img align="left" alt="Mongo" src="https://img.shields.io/badge/-Mongo%20DB-47A248A1?logo=MongoDB&logoColor=white"/>
-  &emsp;
-   <img align="left" alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white"/>
-  &emsp;
-   <img align="left" alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white"/>
-  &emsp;
-   <img align="left" alt="Node.js" src="https://img.shields.io/badge/-Node,js-339933?logo=Node.js&logoColor=white"/>
-  &emsp;
-  <img align="left" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black"/>
-</p>
-
-
-
-### 📱 How to reach me:
 <p align="center">
-  <a href="https://github.com/ARV02"><img align="left" alt="Git" width="90px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/andresrosasvazquez"><img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:ar0439708@gmail.com"><img align="left" alt="akd's codechef" width="80px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:020617&height=4" />
 </p>
-<br>
 
-##
+<h1 align="center">Mobile Engineer focused on fintech 👋</h1>
+
+<p align="center">
+  <b>Mobile Engineer focused on building scalable fintech products</b>
+</p>
+
+<p align="center">
+  Android · Kotlin · Fintech · Payments · Credit Systems
+</p>
+
+<p align="center">
+  💡 I focus on building reliable, user-centered financial products — not just features.
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm a Mobile Engineer with 6+ years of experience building scalable mobile applications, currently focused on fintech solutions including payments, credit systems, and transactional flows.
+
+I enjoy working across the full product lifecycle — from designing mobile experiences to integrating backend services and improving system reliability.
+
+I care deeply about product quality, user experience, and fast feedback loops — from development to production.
+
+---
+
+## 🧠 What I Focus On
+
+- Mobile development with **Android** and **Kotlin**
+- Fintech products: **payments, credit systems, transactional flows**
+- Scalable architectures: **MVVM** and **Clean Architecture**
+- Backend integrations using **REST APIs**
+- Product-driven development & user experience
+
+---
+
+## ⚙️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,nodejs,git,firebase,mongodb" />
+</p>
+
+---
+
+## 📌 Currently
+
+- Building and improving mobile fintech solutions  
+- Exploring scalable architectures and system design  
+- Improving CI/CD pipelines, code quality, and test coverage  
+- Sharing mobile engineering insights on LinkedIn  
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="https://linkedin.com/in/andresrosasvazquez">
+    <img src="https://img.shields.io/badge/LinkedIn-Andres%20Rosas%20Vazquez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ar0439708@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:020617&height=4" />
+</p>
